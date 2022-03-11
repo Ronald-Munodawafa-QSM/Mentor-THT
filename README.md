@@ -293,7 +293,7 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 - You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
 - You are required to include a test suite for your solution.
 - Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
-- **Please include a Markdown report that specifies and justifies the _worst-case space complexity_ of your solution.**
+- **NB: Please include a Markdown report that specifies and justifies the _worst-case space complexity_ of your solution. Failure to complete this portion disqualifies your submission.**
 - Please attempt any two options of the alternatives available from below:
 
 ### Option 1: Say the Number
