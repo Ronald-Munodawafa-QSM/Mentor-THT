@@ -21,13 +21,13 @@ We have built an online course platform that allows human code review to be scal
  the cost of access to tech careers around the world to shrink the tech skills gap and inequality in the tech space. Please ensure you have reviewed our 
  about us page as well. 
 
-## Being a Mentor
+## Being a Coding Mentor
 
-In this role, you will be joining our team of specialist mentors. Our mentors are elite, world-leading programming experts with a skill set that is at 
-the intersection of technical coding skills. Mentors work with leading tech partners from around the world in fields as diverse as technical education, 
-developer assessment, and tech team peer reviews.
+In this role, you will be joining our team of specialist coding mentors. Our mentors are developers with a skill set that is at 
+the intersection of coding and teaching. Mentors work with leading tech partners from around the world in fields as diverse as coding education, 
+developer assessment and tech team peer reviews.
 
-Pursuing reviewing as an opportunity provides a fulfilling way of specializing yourself further while garnering international work experience. It promises a 
+Pursuing mentoring as an opportunity provides a fulfilling way of specializing yourself further while garnering international work experience. It promises a 
 promising career path with a trajectory similar to that of a traditional educator and compensation/benefits rivalling those in the software & IT industry. 
 Please complete the tasks below to help us understand how your skills may best fit the requirements of our team. 
 
